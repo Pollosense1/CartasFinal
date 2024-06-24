@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968687987171",
+    "project_id": "cartasfinal-25f4b",
+    "storage_bucket": "cartasfinal-25f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968687987171:android:ee0e4ee96a25b2143b58d6",
+        "android_client_info": {
+          "package_name": "com.example.prueba4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMBIGH47KNa3Ziwx5av2kXVMEvqwWQhzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
